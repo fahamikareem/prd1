@@ -1,6 +1,0 @@
-MASTER
-
-stashed 
-staash 2
-Stash apply
-stash modified test
